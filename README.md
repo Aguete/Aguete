@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Josué
-- 📚 Sou um estudante do SESI-SENAI cursando desenvolvimento de sistemas!
+- 📚 Sou um estudante do SENAI cursando desenvolvimento de sistemas!
 - 👀 Aqui vou armazenar conteúdos do ensino técnico que vou aprendendo com o passar do trimestre!
 
 
