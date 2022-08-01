@@ -1,8 +1,5 @@
-element {Josué Aguete Filho 
-  font-size: 75;
-}
-Formação acadêmica
-
+Josué Aguete Filho 
+-Formação acadêmica:
 3° Ano do Ensino Médio da Escola S
 
 -Cursando:
