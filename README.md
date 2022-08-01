@@ -33,5 +33,5 @@ Linguagens de programação estudadas:
 
 ![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)Java
 ![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)Sql
-![image](https://user-images.githubusercontent.com/83778317/182199885-c07bdbc5-0ef2-415d-b927-2573834a6458.png)Linux
+![image](https://user-images.githubusercontent.com/83778317/182200191-6e2a9b6c-547f-4a81-bf84-996749816c59.png)Linux
 
