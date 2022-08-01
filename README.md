@@ -3,15 +3,15 @@ Formação acadêmica
 
 3° Ano do Ensino Médio da Escola S
 
-Cursando
+-Cursando:
 
 Escola S 2° Ano curso Técnico Integrado, com os cursos extras de T.I, Sistemas e Programação
 
-Objetivos
+-Objetivos:
 
 No geral conheimento aprofundado para eu ter mais opções no meu futuro, seja isso na área de banco de dados ou na programação de aplicativos para android.
 
-Habilidades
+-Habilidades:
 
 Wecxel - iniciante.
 
@@ -21,15 +21,15 @@ Desenhar - iniciante (consigo copiar mas não tenho muita prática)
 
 Inglês - Avançado (tenho fluência e capacidade de conviver e me comunicar de forma flexivel nos paises em que a lingua é nativa).
 
-Experiência
+-Experiência:
 
 Inexperiente
 
-Sobre mim
+-Sobre mim:
 
 Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu pensamento vai além do convencional e meu solucionamento de problemas baseia-se bastante na minha forte intuição. Aprendo com muita facilidade. quando se trata de ser um bom ouvinte e estou determinado a fazer algo, posso surpreender, no geral eu ainda tenho muito a aprender, mas quanto mais eu aprendo mais o meu potencial cresce.
 
-Linguagens de programação estudadas:
+-Linguagens de programação estudadas:
 
 ![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)Java
 ![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)Sql
