@@ -33,5 +33,5 @@ Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu p
 
 ![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)Java
 ![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)Sql
-![image](https://user-images.githubusercontent.com/83778317/182208429-2620cb79-df61-43d7-9472-98d0b9c8835b.png))Shell Script
+![image](https://user-images.githubusercontent.com/83778317/182208577-dc5bb770-f836-44e0-9409-a58f72d3fc7e.png)Shell Script
 
