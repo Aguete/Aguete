@@ -1,4 +1,6 @@
-Josué Aguete Filho
+element {Josué Aguete Filho 
+  font-size: 75;
+}
 Formação acadêmica
 
 3° Ano do Ensino Médio da Escola S
@@ -17,7 +19,7 @@ Wecxel - iniciante.
 
 Google sites - Intermediário
 
-Desenhar - iniciante (consigo copiar mas não tenho muita prática)
+Desenhar - iniciante (consigo copiar  mas não tenho muita prática)
 
 Inglês - Avançado (tenho fluência e capacidade de conviver e me comunicar de forma flexivel nos paises em que a lingua é nativa).
 
@@ -27,7 +29,7 @@ Inexperiente
 
 -Sobre mim:
 
-Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu pensamento vai além do convencional e meu solucionamento de problemas baseia-se bastante na minha forte intuição. Aprendo com muita facilidade. quando se trata de ser um bom ouvinte e estou determinado a fazer algo, posso surpreender, no geral eu ainda tenho muito a aprender, mas quanto mais eu aprendo mais o meu potencial cresce.
+Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu pensamento vai além do convencional e meu solucionamento de problemas baseia-se bastante na minha forte intuição. Eu aprendo com muita facilidade, sou um bom ouvinte e quando me determino a fazer alguma coisa, faço. No geral eu ainda tenho muito a aprender, mas quanto mais eu aprendo mais o meu potencial cresce.
 
 -Linguagens de programação estudadas:
 
