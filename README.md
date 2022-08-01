@@ -29,6 +29,7 @@ Sobre mim
 
 Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu pensamento vai além do convencional e meu solucionamento de problemas baseia-se bastante na minha forte intuição. Aprendo com muita facilidade. quando se trata de ser um bom ouvinte e estou determinado a fazer algo, posso surpreender, no geral eu ainda tenho muito a aprender, mas quanto mais eu aprendo mais o meu potencial cresce.
 
+Linguagens de programação estudadas:
 
 ![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)
 ![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)
