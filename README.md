@@ -31,7 +31,7 @@ Sou bem humorado, gosto de fazer amigos. tenho uma mente criativa então o meu p
 
 Linguagens de programação estudadas:
 
-![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)
-![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)
-![image](https://user-images.githubusercontent.com/83778317/182199616-66036f5f-f2ba-4ba8-a39c-4e1589f5f6fc.png)
+![image](https://user-images.githubusercontent.com/83778317/182199358-216e32e0-e970-425e-9f63-1fbc18f7bc57.png)Java
+![image](https://user-images.githubusercontent.com/83778317/182199595-4b708dba-b401-4424-bf69-c29fe2f61d1f.png)Sql
+![image](https://user-images.githubusercontent.com/83778317/182199885-c07bdbc5-0ef2-415d-b927-2573834a6458.png)Linux
 
