@@ -4,7 +4,7 @@ Josué Aguete Filho
 
 -Cursando:
 
-Escola S 2° Ano curso Técnico Integrado, com os cursos extras de T.I, Sistemas e Programação
+Escola S 3° Ano curso Técnico Integrado, com os cursos extras de T.I, Sistemas e Programação
 
 -Objetivos:
 
