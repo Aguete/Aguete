@@ -12,7 +12,7 @@ No geral conheimento aprofundado para eu ter mais opções no meu futuro, seja i
 
 -Habilidades:
 
-Wecxel - iniciante.
+Ecxel - iniciante.
 
 Google sites - Intermediário
 
