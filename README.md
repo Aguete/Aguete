@@ -1,10 +1,9 @@
 Josué Aguete Filho 
 -Formação acadêmica:
-3° Ano do Ensino Médio da Escola S
+3° Ano do Ensino Médio da Escola S curso Técnico Integrado, com os cursos extras de T.I, Sistemas e Programação
 
 -Cursando:
-
-Escola S 3° Ano curso Técnico Integrado, com os cursos extras de T.I, Sistemas e Programação
+Análise e desenvolvimento de sistemas na Unisul
 
 -Objetivos:
 
